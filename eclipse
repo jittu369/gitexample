@@ -1,0 +1,5 @@
+Class eclipse{
+         public static void main (string args[]){
+               system.out.println("welcome to the git")
+                }
+}

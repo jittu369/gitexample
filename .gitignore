@@ -1,0 +1,7 @@
+#all class files
+#all settings files
+#all project files
+*.class
+*.settings
+*.project
+
